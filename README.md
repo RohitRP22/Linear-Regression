@@ -2,4 +2,4 @@
 Linear regression
 •	Data consisted of 205 rows and 26 attributes.
 •	Steps include Sentimental analysis, Exploratory Data Analysis, Text- Pre-Processing.
-•	To predict car price by using linear regression in the market. 
+•	To predict car price in the market by using linear regression. 
